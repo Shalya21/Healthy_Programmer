@@ -6,3 +6,7 @@ This is a program that  give you a reminder to take a break and drink some water
                 1. mixer module of pygame to play mp3 files.     
                 2. datetime module to make a log file of your exercises.        
                 3. time module to set a timer for exercises.    
+                
+              
+              
+  Healthy_log.txt file is generated through program.
