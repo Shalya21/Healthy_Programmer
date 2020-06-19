@@ -1,0 +1,12 @@
+Drank water at 2020-06-20 01:07:55.335182 
+Eye exercise at 2020-06-20 01:08:08.656316 
+Physical Exercise at 2020-06-20 01:08:13.816022 
+Drank water at 2020-06-20 01:08:29.184191 
+Eye exercise at 2020-06-20 01:08:36.934604 
+Drank water at 2020-06-20 01:08:46.094848 
+Physical Exercise at 2020-06-20 01:08:50.386091 
+Drank water at 2020-06-20 01:19:43.173596 
+Eye exercise at 2020-06-20 01:19:55.117551 
+Physical Exercise at 2020-06-20 01:20:00.180009 
+Drank water at 2020-06-20 01:20:07.433173 
+Eye exercise at 2020-06-20 01:20:23.390983 
